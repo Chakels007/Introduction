@@ -1,2 +1,4 @@
 # Introduction
-This is about my projects and experience i have worked
+I am Gowtham, 25, From India
+Currently in Dubai
+Full Stack Developer
